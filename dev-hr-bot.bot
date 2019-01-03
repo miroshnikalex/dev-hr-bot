@@ -1,0 +1,62 @@
+{
+  "name": "dev-hr-bot",
+  "padlock": "P9JPNlm0XBwDwvtliwt1eQ==!YTXWmZBgW/vEuySiE1KQuawVZcG8n5YE+VHXwfrgd2/IbsC756a73bXtJH2uNz7F",
+  "version": "2.0",
+  "services": [
+    {
+      "tenantId": "b41b72d0-4e9f-4c26-8a69-f949f367c91d",
+      "subscriptionId": "efec8216-08f0-482e-a7d4-90ada163eff2",
+      "resourceGroup": "devhrbot",
+      "serviceName": "dev-hr-bot",
+      "type": "abs",
+      "name": "dev-hr-bot",
+      "id": "1"
+    },
+    {
+      "connectionString": "KDGUhW3v9UFhDiulNfzzdQ==!8GNx9E6uk8n7/N9cY8bMPy7xRZSDB8Zc1L/x2sD7clLqozDJIo0bi6n6L7M+aqfJEVzPT9ECtvXgImZNLZHdEKxmWKCzh3Kxm5EBwBaDLyZ0exCWgaE570DtXnh/cIQrBMt0nPMecq14Btdh7XyosdyQXl5F9I1jq6qYak9YFhcRvulypukp0svwJzYtG/AgDyq12igIdH4pBqK9828GtQ==",
+      "tenantId": "b41b72d0-4e9f-4c26-8a69-f949f367c91d",
+      "subscriptionId": "efec8216-08f0-482e-a7d4-90ada163eff2",
+      "resourceGroup": "devhrbot",
+      "serviceName": "devhrbotba6c",
+      "type": "blob",
+      "id": "2"
+    },
+    {
+      "appId": "",
+      "appPassword": "",
+      "endpoint": "http://localhost:3978/api/messages",
+      "type": "endpoint",
+      "name": "development",
+      "id": "3"
+    },
+    {
+      "appId": "b9c1ebf4-55cc-430d-a20e-febb0c546e82",
+      "appPassword": "yQvAwu8Yx204tsRV6AVPoA==!D2de/wtkMr6KaJfVz6KUoNWfxmvgArPPtsTlVwf8Kwo=",
+      "endpoint": "https://dev-hr-bot.azurewebsites.net/api/messages",
+      "type": "endpoint",
+      "name": "production",
+      "id": "4"
+    },
+    {
+      "instrumentationKey": "saOV1Trd3/Sg1d/SaZOMvA==!2YU4xfU0vI4+V4MAjhQ/HLzlQ/1Ou7UjI6qlOliYifpopOsbIbPdZDSDNZ+Ly81v",
+      "applicationId": "6c1dc9d7-4d83-452f-8c41-ac9d198cea9c",
+      "apiKeys": {},
+      "tenantId": "b41b72d0-4e9f-4c26-8a69-f949f367c91d",
+      "subscriptionId": "efec8216-08f0-482e-a7d4-90ada163eff2",
+      "resourceGroup": "devhrbot",
+      "serviceName": "dev-hr-botccrasj",
+      "type": "appInsights",
+      "id": "5"
+    },
+    {
+      "appId": "0b27d454-23ab-4d7e-9691-2791df4730b1",
+      "authoringKey": "ebe7609480e8411799d24dba55660c0e",
+      "subscriptionKey": "ebe7609480e8411799d24dba55660c0e"
+      "version": "0.2",
+      "region": "westus",
+      "type": "luis",
+      "name": "dev-hr-app",
+      "id": "6"
+    }
+  ]
+}
