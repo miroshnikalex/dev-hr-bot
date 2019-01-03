@@ -55,7 +55,7 @@
       "version": "0.2",
       "region": "westus",
       "type": "luis",
-      "name": "dev-hr-app",
+      "name": "dev-hr-bot",
       "id": "6"
     }
   ]
